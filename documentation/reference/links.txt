@@ -1,0 +1,5 @@
+ESP 32 development board by valentine:
+https://oshwlab.com/cost.co/esp32_dev
+
+ESP 32 development board by espressif itself:
+https://dl.espressif.com/dl/schematics/esp32_devkitc_v4-sch.pdf
