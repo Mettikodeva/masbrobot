@@ -1,0 +1,43 @@
+==============
+|| 	PCB	||
+==============
+
+== IC ==
+- ESP32 Wroom 32D
+- MPU6050
+- CH340G
+-
+
+
+
+== PASSIVE COMPONENT ==
+- capacitor 100nF
+- capacitor 10uF
+- Resistor 470R
+- Resistor 10k
+- Resistor 1k
+-
+
+
+
+== ACTIVE COMPONENT ==
+- LCD IPS 1.14 inch
+-
+-
+
+
+== CONNECTOR ==
+- USB C plug USB2.0
+- GPIO Header x xx
+- jst 1.25mm 6 pin
+- 
+- 
+
+
+ 
+==============
+|| 		||
+==============
+
+
+
