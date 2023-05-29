@@ -22,7 +22,7 @@
 
 == ACTIVE COMPONENT ==
 - LCD IPS 1.14 inch
--
+- Micro DC motor N20 with Encoder
 -
 
 
