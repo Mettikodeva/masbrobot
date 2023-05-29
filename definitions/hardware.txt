@@ -6,7 +6,7 @@
 - ESP32 Wroom 32D
 - MPU6050
 - CH340G
--
+- EMMC
 
 
 
