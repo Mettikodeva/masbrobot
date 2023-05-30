@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Adafruit OLED 128x32 Mono I2C-eagle-import")(type "KiCad")(uri "C:/Users/naraa/OneDrive - Universitas Airlangga/Dokumen/kuliah/MATKUL/sem6/TopSus/masbrobot/electrical/Adafruit-128x32-I2C-OLED-Breakout-PCB-master/Adafruit-128x32-I2C-OLED-Breakout-PCB-master/Adafruit OLED 128x32 Mono I2C-eagle-import.kicad_sym")(options "")(descr ""))
+)
